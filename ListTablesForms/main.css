@@ -1,0 +1,62 @@
+#first {
+    list-style-type: circle;
+}
+
+#second {
+    list-style-type: square;
+}
+
+#third {
+    list-style-type: upper-alpha;
+}
+
+#fourth {
+    list-style-type: lower-roman;
+}
+
+#prva{
+    list-style-image: url(https://img.icons8.com/plasticine/2x/image.png);
+    margin-left: 200px;
+    width: 200px;
+}
+
+#druga {
+    list-style-image: url(https://icons.iconarchive.com/icons/umut-pulat/tulliana-2/128/index-img-icon.png);
+    margin-left: 200px;
+    width: 200px;
+}
+
+table {
+    margin: auto;
+}
+
+
+.img {
+    height: 100px;
+}
+
+td {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+tr:hover td {
+    background-color: rgb(218, 171, 42);
+}
+
+tr:nth-child(even) {background: #CCC}
+tr:nth-child(odd) {background: #FFF}
+
+.header {
+    background-color: darkred;
+    color: white;
+    height: 40px;
+}
+
+table {
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+

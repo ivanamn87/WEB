@@ -1,0 +1,64 @@
+@font-face {
+        font-family: 'Chango', cursive;
+        src: url('../fonts/Chango-Regular.ttf');
+}
+
+.first {
+    font-family: Chango-Regular, Chango, cursive;
+}
+
+.second {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+}
+
+.third {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.fourth {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fifth {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+q { quotes: '\201c' '\201d'; }
+q:before { content: open-quote; }
+q:after  { content: close-quote; }
+
+.prvi {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.drugi{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+.treci {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cetvrti {
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+.peti {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+* {
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.first{
+    font-size: 16px;
+}
+
+span{
+    font-weight: 900;
+    font-style: italic;
+    color: red;
+}
