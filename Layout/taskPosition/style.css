@@ -1,0 +1,36 @@
+.first-img {
+    position: relative;
+    top: 50px;
+    left: 100px;
+}
+
+
+.second-img {
+    position: absolute;
+    right: 10px;
+    top: 15px;
+}
+
+
+.third-img {
+
+
+}
+
+p {
+    width: 200px;
+    height: 200px;
+    display: block;
+}
+.prvi {
+    color:darkred;
+}
+
+.drugi {
+    color: darkorange;
+    
+}
+
+.treci {
+    color: darkslateblue;
+}
