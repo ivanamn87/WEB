@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url("SuperMarioAssets/bg.jpg");
+    background-repeat: repeat-x;
+    background-size: contain;
+}
+
+.wraper {
+    height: 90%;
+    position: relative;
+}
+
+.mario {
+    width: 120px;
+    position: absolute;
+    left: 47%;
+    top: 56%;
+}
+
+.mario_running{
+    width: 120px;
+    position: absolute;
+    left: 47%;
+    top: 56%;
+}
